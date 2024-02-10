@@ -3,7 +3,7 @@
   "description": "Bring the power of the Composite API to your sf command line (@salesforce/cli)",
   "version": "1.0.0",
   "dependencies": {
-    "@oclif/core": "^3.18.1",
+    "@oclif/core": "^3.19.1",
     "@salesforce/core": "^6.4.7",
     "@salesforce/sf-plugins-core": "^7.1.3"
   },
